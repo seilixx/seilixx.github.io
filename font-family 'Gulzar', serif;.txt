@@ -1,0 +1,21 @@
+font-family: 'Gulzar', serif;
+font-family: 'Lemonada', cursive;
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gulzar&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lemonada&display=swap');
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+What is the birth date of Prophet Muhammad?
+Who were the parents of Prophet Muhammad?
+What is the significance of the city of Mecca in Prophet Muhammad’s life?
+Who was the first wife of Prophet Muhammad?
+What is the Hijra of Prophet Muhammad?
+What is the significance of the revelations received by Prophet Muhammad?
+How did Prophet Muhammad contribute to the spread of Islam?
+Can you name some of the key teachings of Prophet Muhammad?
+Who were some of the key companions of Prophet Muhammad and what roles did they play in his life and the spread of Islam?
+What is the significance of Prophet Muhammad’s last sermon?
