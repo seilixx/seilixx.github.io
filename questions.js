@@ -2,12 +2,12 @@ let questions = [
     {
         numb: 1,
         question: "What is the birth date of Prophet Muhammad?",
-        answer: "Abdullah ibn Abd al-Muttalib and Amina bint Wahb",
+        answer: "562 AD",
         options: [
-            "Hashim ibn Abd Manaf and Salma bint Amr",
-            "Abdullah ibn Abd al-Muttalib and Amina bint Wahb",
-            "Abu Talib and Fatima bint Asad",
-            "Abdul Muttalib and Halimah bint Abi Dhuayb"
+            "600 AD",
+            "562 AD",
+            "555 AD",
+            "720 AD"
         ]
     },
     {
